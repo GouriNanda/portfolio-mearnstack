@@ -1,0 +1,339 @@
+*{
+    font-family: "Josefin Sans", sans-serif;
+    margin: 0px;
+    
+}
+
+nav{
+    background-color: rgb(55, 54, 54);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    
+}
+
+nav ul{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+nav ul a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: larger;
+    /* font-weight: bolder; */
+    margin-left: 18px;
+}
+
+.home1{
+    display: flex;
+    background-color: rgb(226, 222, 222);
+
+}
+
+img{
+    width: 550px;
+    margin-left: 0px;
+}
+
+h1{
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 250px;
+    font-weight: lighter;
+    font-size: 130px;
+    
+}
+
+#hh{
+    margin-left: 550px;
+    margin-top: 0px;
+}
+
+.intro{
+    display: flex;
+}
+
+.pic img{
+    width: 400px;
+    border-radius: 3px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: 10px;
+}
+
+#pp1{
+    margin-top: 40px;
+    font-size: large;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+/* 
+.box img{
+    width: 80px;
+
+} */
+
+.row{
+    display: flex;
+    
+}
+
+#hh2{
+    font-size: 300px;
+    font-weight: lighter;
+    font-size: 100px;
+    margin-top: -15px;
+    margin-left: 110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row{
+    background-color: rgb(244, 244, 212);
+}
+.box1 img{
+    margin-top: 120px;
+    margin-left: -450px;
+    width: 300px;
+}
+
+.box1 img:hover{
+    scale: 1.05;
+}
+
+
+.box2 img{
+    margin-top: 230px;
+    margin-left: -170px;
+    width: 280px;
+}
+
+.box2 img:hover{
+    scale: 1.05;
+}
+
+
+.box3 img{
+    margin-top: 15px;
+    margin-left: -40px;
+    width: 300px;
+}
+
+.box3 img:hover{
+    scale: 1.05;
+}
+
+
+.box4 img{
+    margin-top: 300px;
+    margin-left: -80px;
+    width: 300px;
+}
+
+.box4 img:hover{
+    scale: 1.05;
+}
+
+
+
+.box5 img{
+    margin-top: 450px;
+    margin-left: -980px;
+    width: 250px;
+}
+
+.box5 img:hover{
+    scale: 1.05;
+}
+
+
+
+.box6 img{
+    margin-top: 480px;
+    margin-left: -490px;
+    width: 200px;
+}
+
+.box6 img:hover{
+    scale: 1.05;
+}
+
+.box7 img{
+    margin-top: 100px;
+    margin-left: -20px;
+    width: 280px;
+}
+
+
+.box7 img:hover{
+    scale: 1.05;
+}
+
+
+.box8 img{
+    margin-top: 10px;
+    margin-left: -40px;
+    width: 200px;
+}
+
+
+.box8 img:hover{
+    scale: 1.05;
+}
+
+
+.box9 img{
+    margin-top: 400px;
+    margin-left: -300px;
+    width: 290px;
+}
+
+
+.box9 img:hover{
+    scale: 1.05;
+}
+
+
+
+.box10 img{
+    margin-top: 2px;
+    margin-left: -580px;
+    width: 180px;
+}
+
+
+.box10 img:hover{
+    scale: 1.05;
+}
+
+
+.box11 img{
+    margin-top: 530px;
+    margin-left: -430px;
+    width: 180px;
+}
+
+
+.box11 img:hover{
+    scale: 1.05;
+}
+
+#hh1{
+    margin-left: 700px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+#img1{
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+margin-bottom: 10px;
+}
+
+
+
+
+h2{
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: beige;
+
+}
+
+h4{
+   font-size: 19px; 
+   margin-left: 40px;
+   margin-top: 10px;
+   
+}
+
+button{
+    margin-left: 300px;
+    margin-top: 30px;
+    background-color: black;
+    color: rgb(162, 118, 36);
+    border-radius: 3px;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: white;
+
+}
+
+a{
+    color: rgb(162, 118, 36);
+   
+}
+
+.f1{
+    display: flex;
+}
+
+
+.f2{
+    display: flex;
+}
+
+
+
+.f3{
+    display: flex;
+}
+
+
+
+.f4{
+    display: flex;
+}
+
+
+#hh3{
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    background-color: rgb(43, 40, 40);
+    width: 100%;
+    color: white;
+}
+
+#hh4{
+    font-size: 20px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+#a2{
+    font-size: 30px;
+    align-items: center;
+    color: black;
+    margin-left: 580px;
+    height: 100px;
+    margin-top: 50px;
+    
+}
+
+#a2:hover{
+    scale: 1.05;
+}
+
